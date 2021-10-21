@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kunal-bhar/probplotlib"><img alt="probplotlib" src="https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-logo-bg.PNG" width="64%"></a>
+  <a href="https://github.com/kunal-bhar/probplotlib"><img alt="probplotlib" src="https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-logo-bg.png" width="64%"></a>
   <p align="center">Probability Distributions for Python</p>
 </p>
 
