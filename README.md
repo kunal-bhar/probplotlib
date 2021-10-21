@@ -111,8 +111,16 @@ lines of code. The example below makes for better understanding.
 
 a bag of numbers in a `.txt` file corresponds to the following plots:
 
+*histogram plot:*
+
 ![Histogram Plot](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-hist.png)
+
+*bar plot:*
+
 ![Bar Plot](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-bar.png)
+
+*histogram plot with pdf:*
+
 ![Histogram Plot With PDF](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-histpdf.png)
 
 
