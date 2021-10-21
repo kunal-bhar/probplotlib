@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kunal-bhar/probplotlib"><img alt="accupy" src="https://nschloe.github.io/accupy/logo-with-text.svg" width="40%"></a>
+  <a href="https://github.com/kunal-bhar/probplotlib"><img alt="probplotlib" src="https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-logo-bg.png" width="64%"></a>
   <p align="center">Probability Distributions for Python</p>
 </p>
 
@@ -107,13 +107,14 @@ binomialex.plot_bar_pdf()
 probplotlib therefore allows you to analyze raw numerical data graphically in minimial
 lines of code. The example below makes for better understanding.
 
-![](https://nschloe.github.io/accupy/accuracy-sum.svg) ##readme
+![TXT file](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-numtxt.PNG)
 
 a bag of numbers in a `.txt` file corresponds to the following plots:
 
-![](https://nschloe.github.io/accupy/accuracy-sum.svg)
-![](https://nschloe.github.io/accupy/accuracy-sum.svg)
-![](https://nschloe.github.io/accupy/accuracy-sum.svg)
+![Histogram Plot](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-hist.png)
+![Bar Plot](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-bar.png)
+![Histogram Plot With PDF](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-histpdf.png)
+
 
 ### References
 
