@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/kunal-bhar/probplotlib"><img alt="probplotlib" src="https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-logo-bg.png" width="64%"></a>
+  <a href="https://github.com/kunal-bhar/probplotlib"><img alt="probplotlib" src="https://i.ibb.co/tCHqmCN/probplotlib-logo-bg.png" width="55%"></a>
   <p align="center">Probability Distributions for Python</p>
 </p>
 
@@ -8,15 +8,15 @@
 ### The Statistical Void
 
 Stats can get tricky in the transition from plotting fun graphs to advanced algebraic
-equations. A classical example is the given sum:
+equations. A classic example is the given sum:
 
 ```
 1.0e14 + 1.0 - 1.0e14
 ```
 
 The actual result is `1.0` but in double precision, this will result in `0.0`.
-While in this example the failure is quite obvious, it can get a lot more
-tricky than that. Instances like these hinder the community from exploring the 
+While in this example the failure is quite obvious, it can get a lot trickier 
+than that. Instances like these hinder the community from exploring the 
 inferential potential of complex entities.
 
 ```python
@@ -107,21 +107,21 @@ binomialex.plot_bar_pdf()
 probplotlib therefore allows you to analyze raw numerical data graphically in minimial
 lines of code. The example below makes for better understanding.
 
-![TXT file](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-numtxt.PNG)
+![TXT file](https://i.ibb.co/cyx1xKy/probplotlib-numtxt.png)
 
 a bag of numbers in a `.txt` file corresponds to the following plots:
 
 *histogram plot:*
 
-![Histogram Plot](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-hist.png)
+![Histogram Plot](https://i.ibb.co/hWyNvrY/probplotlib-hist.png)
 
 *bar plot:*
 
-![Bar Plot](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-bar.png)
+![Bar Plot](https://i.ibb.co/Rv8VCzG/probplotlib-bar.png)
 
 *histogram plot with pdf:*
 
-![Histogram Plot With PDF](https://github.com/kunal-bhar/probplotlib/blob/gh-pages/probplotlib-histpdf.png)
+![Histogram Plot With PDF](https://i.ibb.co/wc34xy6/probplotlib-histpdf.png)
 
 
 ### References
