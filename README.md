@@ -1,9 +1,5 @@
 <p align="center">
-<<<<<<< HEAD
   <a href="https://github.com/kunal-bhar/probplotlib"><img alt="probplotlib" src="https://i.ibb.co/tCHqmCN/probplotlib-logo-bg.png" width="55%"></a>
-=======
-  <a href="https://github.com/kunal-bhar/probplotlib"><img alt="probplotlib" src="https://i.ibb.co/tCHqmCN/probplotlib-logo-bg.png" width="64%"></a>
->>>>>>> 8c0f4ceb381fb1d07d738f8e526fdbba4c07b38d
   <p align="center">Probability Distributions for Python</p>
 </p>
 
